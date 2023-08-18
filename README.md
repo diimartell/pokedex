@@ -1,4 +1,4 @@
-# Pokedéx <img src="https://w7.pngwing.com/pngs/272/921/png-transparent-pokemon-pokeball-pokemon-go-pokemon-pokeball.png" width="30px">
+# Pokedéx <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pokemon-icon.png" width="30px">
 
 
 O projeto consiste em uma Pokedéx, onde é possível realizar pesquisas através do nome do Pokemón ou do número.
@@ -6,10 +6,8 @@ O projeto consiste em uma Pokedéx, onde é possível realizar pesquisas atravé
 
 ## Tecnologias usadas
 
-
-- HTML5
-- CSS3
-- JavaScript
+<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+          
 
 
 ## Preview
